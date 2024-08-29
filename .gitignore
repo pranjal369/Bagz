@@ -1,0 +1,7 @@
+node_modules
+_logs
+_cacache
+.env
+package.json
+package-lock.json
+_update-notifier-last-checked
